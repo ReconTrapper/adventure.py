@@ -34,7 +34,7 @@ def numbers_room():
         game_over("Please go to Zed's Exercise 1: A good first program https://www.youtube.com/watch?v=WPN_gksmLHo&list=PLiEts138s9P2Cwe0PHZ8zndsEbvfV5P8N&index=3 take the link/hint!")
 #bear room
 def printing_room():
-    print("\nSoOo you know how to give a #comment.")
+    print("\nSo you know how to give a #comment.")
     print("are you proficent in printing?")
     print("which is correct")
     print("1). print(this will print)")
