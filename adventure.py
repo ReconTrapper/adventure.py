@@ -11,7 +11,7 @@ def game_over(reason):
     play_again()
 #dimond_room
 def variables_room():
-    print("\nVariables and Names !!! bet you proabably know a thing or 2 abouth them")
+    print("\nVariables and Names !!! bet you proabably know a thing or 2 about them")
     print("Otherwise how els would you have made it here?")
     print("if you want to go further you must define variabls to a value of 10")
     answer = input(">")
