@@ -7,11 +7,11 @@ You have to copy the text out of my adventure.py file on to your pc and play wit
 
 My gole is to apply information from Zed Shaw Learn Python The Hard way
 
-Kind of like testing the person if they seen the video or read the book im looking for clever ways to incorprate the class in to the different rooms
+Kind of like testing the person if they seen the video or read the book, Im looking for clever ways to incorprate the class into the different rooms.
 
-such as the number_room if you answer anything other then 127 you will get a game over 
+Such as the number_room if you answer anything other then 127 you will get a game over.
 
-however the only way to get te right answer is to define both hens = 25 + 30 / 6 and rooster = 100 - 25 * 3 % 4 then telling python chickens = hens + roosters
+however the only way to get the right answer is to define both hens = 25 + 30 / 6 and rooster = 100 - 25 * 3 % 4 then telling python chickens = hens + roosters
 
 and getting the right answer to type in the game 
 
@@ -20,8 +20,6 @@ if the users gives a number answer less then or more then 127 they get a game ov
 https://www.youtube.com/watch?v=xFH-77jNMwI&list=PLiEts138s9P2Cwe0PHZ8zndsEbvfV5P8N&index=1
 
 If the usere gives the correct answer they get to proceed to the next room
-
-ad theres a full end for typing anything other then a number 
 
 If you fallow the link you will find the answers to the text based game named adventure.py 
 or play the game and learn
