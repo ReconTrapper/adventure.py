@@ -19,6 +19,9 @@ if the users gives a number answer less then or more then 127 they get a game ov
 
 https://www.youtube.com/watch?v=xFH-77jNMwI&list=PLiEts138s9P2Cwe0PHZ8zndsEbvfV5P8N&index=1
 
+If the usere gives the correct answer they get to proceed to the next room
+
+ad theres a full end for typing anything other then a number 
 
 If you fallow the link you will find the answers to the text based game named adventure.py 
 or play the game and learn
